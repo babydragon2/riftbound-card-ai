@@ -1,1 +1,1 @@
-# riftdb
+# riftbound-card-ai
