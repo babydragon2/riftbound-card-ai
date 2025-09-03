@@ -39,7 +39,7 @@ def extract_text(image):
 
 
 # Usage
-image_path = "../riftbound-card-ai/riftbound_card_images/OGN_001.jpg"
+image_path = "../riftbound-card-ai/riftbound_card_images/OGS_002.jpg"
 try:
     preprocessed = minimal_preprocess(image_path)
     extract_text(preprocessed)

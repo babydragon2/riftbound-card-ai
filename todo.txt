@@ -1,0 +1,8 @@
+ Parse Accuracy:
+ - define bounds for each card type
+ - apply character restriction to each bound 
+ - examine accuracy (try to reference with existing cardata.json)
+
+Classification:
+- label a sample of card types
+- train CNN for recognition (examine accuracy)
